@@ -28,6 +28,11 @@ var artistInfo = {
 var otherArtistsInvolved = [];
 var publicRating = 9.12;
 var isAvailableAt = ['store 1', 'store 2', 'download from A', 'download from B'];
+/**
+ * ifyou preffer live concerts,
+ * here is full list for your
+ * consideration
+ */
 var concerts = {
     berlin: {
         when: '2019.12.12',
@@ -46,4 +51,5 @@ var concerts = {
     }
     
 };
+//additional information for interesents
 var doesCharity = true;
